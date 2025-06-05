@@ -6,7 +6,7 @@
 
 - 🔭 I work with Infrastructure Platforms, using technologies like Kubernetes, Crossplane, Terraform, and Go (Golang).
 - 🌱 I'm passionate about Web3.0 and blockchain technologies, particularly their infrastructure and deployment aspects.
-- 📫 Reach me at **[hazim_malik@hotmail.com](mailto:your.email@example.com)**
+- 📫 Reach me at **[hazim_malik@hotmail.com](mailto:hazim_malik@hotmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
